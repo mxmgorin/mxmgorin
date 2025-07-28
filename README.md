@@ -2,8 +2,8 @@ Hi there, I'm Maxim! 👋
 
 I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
 
-- 🎮 **Emulator development** – creator of a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
-- 🕹️ **Game porting** – contributer to open-source projects like PortMasterGames, porting several titles and using Lua and Bash.
+- 🎮 **Emulator development** – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
+- 🕹️ **Game porting** – contributor to the open-source project PortMaster Games, porting several titles using Lua and Bash.
 - 🦀 **Rust** – one of my favorite tools for writing safe, elegant, and high-performance code for backend and systems development.
 - 💻 **C#** – experience in backend development and desktop applications using WPF.
 - 🌐 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
