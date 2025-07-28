@@ -2,10 +2,10 @@ Hi there, I'm Maxim! 👋
 
 I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
 
-🎮 Experienced in **emulator development** and **game porting**, contributing to open-source projects like **PortMaster Games**.  
-🦀 **Rust** is one of my favorite tools for writing safe, elegant, and high-performance code.  
-🌐 Have experience with **C#** and desktop application development using WPF and Frontend background with **TypeScript**, **JavaScript**, and frameworks like **Blazor**, **Vue**, and **Angular**.  
-💸 Strong background in **fintech**, delivering high-performance, robust solutions.  
+- 🎮 Experienced in **emulator development** and **game porting**, contributing to open-source projects like **PortMaster Games**.  
+- 🦀 **Rust** is one of my favorite tools for writing safe, elegant, and high-performance code.  
+- 🌐 Have experience with **C#** and desktop application development using WPF and Frontend background with **TypeScript**, **JavaScript**, and frameworks like **Blazor**, **Vue**, and **Angular**.  
+- 💸 Strong background in **fintech**, delivering high-performance, robust solutions.  
 
 <!--
 **mxmgorin/mxmgorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
