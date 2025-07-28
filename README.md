@@ -2,14 +2,17 @@ Hi there, I'm Maxim! 👋
 
 I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
 
-- 🎮 Experienced in **emulator development** and **game porting**, contributing to open-source projects like **PortMaster Games**.  
-- 🦀 **Rust** is one of my favorite tools for writing safe, elegant, and high-performance code.  
-- 🌐 Have experience with **C#** and desktop application development using WPF and Frontend background with **TypeScript**, **JavaScript**, and frameworks like **Blazor**, **Vue**, and **Angular**.  
-- 💸 Strong background in **fintech**, delivering high-performance, robust solutions.  
+- 🎮 **Emulator development** – creator of a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
+- 🕹️ **Game porting** – contributed to the open-source project PortMaster Games, porting several titles and integrating scripting with Lua and Bash.
+- 🦀 **Rust** – one of my favorite tools for writing safe, elegant, and high-performance code for backend and systems development.
+- 💻 **C#** – experience in backend development and desktop applications using WPF.
+- 🌐 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
+- 💸 **Fintech** – strong background delivering high-performance, reliable, and robust solutions.
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&style=flat-square)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat-square)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white&style=flat-square)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
