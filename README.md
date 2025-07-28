@@ -7,7 +7,7 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 - 🦀 **Rust** – one of my favorite tools for writing safe, elegant, and high-performance code for backend and systems development.
 - 💻 **C#** – experience in backend development and desktop applications using WPF.
 - 🌐 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
-- 💸 **Fintech** – strong background delivering high-performance, reliable, and robust solutions.
+- 💸 **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&style=flat-square)
