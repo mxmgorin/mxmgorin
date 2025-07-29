@@ -9,7 +9,7 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 - 🌐 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
 - 💸 **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
 
-Beyond coding, I’m a Linux tinkerer, retro gamer, and collector of vintage and modern retro handheld consoles — always exploring, experimenting, and preserving timeless gaming tech.
+Beyond coding, I’m a Linux tinkerer, retro gamer, and enthusiast of interesting and unique tech — from vintage handheld consoles to modern retro-inspired devices — which inspires my work on emulation and classic game preservation.
 
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
