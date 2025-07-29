@@ -8,6 +8,9 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 - 💻 **C#** – experience in backend development and desktop applications using WPF.
 - 🌐 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
 - 💸 **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
+
+Beyond coding, I’m a passionate retro gamer and collector of vintage handheld consoles, which inspires my work on emulation and classic game preservation.
+
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&style=flat-square)
