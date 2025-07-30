@@ -5,8 +5,8 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 - 🎮 **Emulator development** – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
 - 👐 **Open-source** – contributor to PortMaster Games, where I ported several titles using **Lua** and **Bash**.
 - 🦀 **Rust** – one of my favorite tools for writing safe, elegant, and high-performance code for backend and systems development.
-- 💻 **C#** – experience in backend development and desktop applications using WPF.
-- 🌐 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
+- #️⃣**C#** – experience in backend development and desktop applications using WPF.
+- 💻 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
 - 💸 **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
 
 Beyond coding, I’m a Linux tinkerer, retro gamer, and enthusiast of interesting and unique tech — from vintage handheld consoles to modern retro-inspired devices — which inspires my work on emulation and classic game preservation.
