@@ -2,15 +2,20 @@ Hi there, I'm Maxim! 👋
 
 I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
 
-- 🎮 **Emulator development** – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
-- 👐 **Open-source** – contributor to PortMaster Games, where I ported several titles using **Lua** and **Bash**.
-- 🦀 **Rust** – one of my favorite tools for writing safe, elegant, and high-performance code for backend and systems development.
-- #️⃣ **C#** – experience in backend development and desktop applications using WPF.
-- 💻 **Frontend** – background with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
-- 💸 **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
+- **Rust 🦀** – one of my favorite tools for writing safe and high-performance code for backend and systems development.
+- **C#** – experience in backend development and desktop applications using WPF.
+- **Frontend** – experience with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
+- **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
 
-Beyond coding, I’m a Linux tinkerer, retro gamer, and enthusiast of interesting and unique tech — from vintage handheld consoles to modern retro-inspired devices — which inspires my work on emulation and classic game preservation.
+Personal Projects
 
+- Game Boy Emulator – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
+- Web Browser – experimenting with embedding the Servo engine
+- Lua Interpreter – exploring language design and runtime implementation.
+- Open Source – contributor to PortMaster Games, where I ported several titles using **Lua** and **Bash**.
+
+I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation, open-source software, and classic system preservation.
+<!--
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&style=flat-square)
@@ -29,7 +34,7 @@ Beyond coding, I’m a Linux tinkerer, retro gamer, and enthusiast of interestin
 ![Protocol Buffers](https://img.shields.io/badge/-Protocol%20Buffers-02569B?logo=google%20cloud&logoColor=white&style=flat-square&)
 ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white&style=flat-square)
 
-<!--
+
 **mxmgorin/mxmgorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
