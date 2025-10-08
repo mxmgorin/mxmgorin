@@ -9,10 +9,10 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 
 Personal Projects
 
-- Game Boy Emulator – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
-- Web Browser – experimenting with embedding the Servo engine
-- Lua Interpreter – exploring language design and runtime implementation.
-- Open Source – contributor to PortMaster Games, where I ported several titles using **Lua** and **Bash**.
+- **Game Boy Emulator** – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
+- **Web Browser** – experimenting with embedding the Servo engine.
+- **Lua Interpreter** – exploring lexing, parsing, and runtime design.
+- **Open Source** – contributor to PortMasterGames, where I ported several titles using **Lua** and **Bash**.
 
 I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation, open-source software, and classic system preservation.
 <!--
