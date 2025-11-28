@@ -3,6 +3,7 @@ Hi there, I'm Maxim! 👋
 I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
 
 - **Rust 🦀** – one of my favorite tools for writing safe and high-performance code.
+- **Go** – exploring through personal projects, enjoying its simplicity, tooling, and concurrency model.
 - **C#** – experience in backend development and desktop applications.
 - **Frontend** – experience with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
 - **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
@@ -10,8 +11,9 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 Personal Projects
 
 - **Game Boy Emulator** – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
+- **CHIP-8 Emulator** - Building a CHIP-8, SCHIP, and XO-CHIP emulator with broad compatibility across variants, full quirks support, custom palettes, and a clean WASM frontend.
 - **Web Browser** – experimenting with embedding the Servo engine.
-- **Lua Interpreter** – exploring lexing, parsing, and runtime design.
+- **Lua Interpreter** – exploring language internals by implementing a lexer, parser, and runtime.
 - **Open Source** – contributor to PortMasterGames, where I ported several titles using **Lua** and **Bash**.
 
 I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation, open-source software, and classic system preservation.
