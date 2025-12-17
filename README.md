@@ -11,13 +11,13 @@ I'm a Software Engineer passionate about building high-performance, reliable, an
 
 Personal Projects
 
-- **Game Boy Emulator** – building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements.
-- **CHIP-8 Emulator** - Building a CHIP-8, SCHIP, and XO-CHIP emulator with broad compatibility across variants, full quirks support, custom palettes, and a clean WASM frontend.
-- **Web Browser** – experimenting with embedding the Servo engine.
-- **Lua Interpreter** – exploring language internals by implementing a lexer, parser, and runtime.
-- **Open Source** – contributor to PortMasterGames, where I ported several titles using **Lua** and **Bash**.
+- **Game Boy Emulator** – Building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements ([link](https://github.com/mxmgorin/gmboy)).
+- **CHIP-8 Virtual Machine** - Building a CHIP-8, SCHIP, and XO-CHIP VM (emulator) with broad compatibility across variants, quirks support, and multiple frontends ([link](https://mxmgorin.github.io/ch8go/web/)).
+- **Lua Interpreter** – Exploring language internals by implementing a lexer, parser, and runtime ([link](https://github.com/mxmgorin/luar)).
+- **Web Browser** – Experimenting with embedding the Servo engine ([link](https://github.com/mxmgorin/retsurf)).
+- **Open Source** – Contributor to PortMasterGames, where I ported several titles using **Lua** and **Bash** ([link](https://portmaster.games/profile.html?porter=Troidem)).
 
-I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation, open-source software, and classic system preservation.
+I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation, open-source software, and classic systems.
 <!--
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
