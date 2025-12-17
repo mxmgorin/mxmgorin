@@ -2,11 +2,12 @@ Hi there, I'm Maxim! 👋
 
 I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
 
-- **Rust 🦀** – one of my favorite tools for writing safe and high-performance code.
-- **Go** – exploring through personal projects, enjoying its simplicity, tooling, and concurrency model.
-- **C#** – experience in backend development and desktop applications.
-- **Frontend** – experience with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
-- **Fintech** – strong expertise delivering high-performance, reliable, and robust solutions.
+- **Rust 🦀** – One of my favorite tools for writing safe and high-performance code.
+- **Go** – Exploring through personal projects, enjoying its simplicity, tooling, and concurrency model.
+- **C#** – Experience in backend development and desktop applications.
+- **Backend** - Extensive experience across multiple programming languages, designing and implementing high-load, distributed systems.
+- **Frontend** – Experience with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
+- **Fintech** – Strong domain expertise delivering high-performance, reliable, and robust solutions.
 
 Personal Projects
 
