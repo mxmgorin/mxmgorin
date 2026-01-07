@@ -1,23 +1,15 @@
 Hi there, I'm Maxim! 👋
 
-I'm a Software Engineer passionate about building high-performance, reliable, and well-crafted software.
+I’m a Software Engineer passionate about building reliable, well-crafted software. I have backend experience across multiple programming languages, designing and implementing high-load, distributed systems, alongside frontend experience with TypeScript, JavaScript, and frameworks such as Blazor, Vue, and Angular. I also have strong fintech domain expertise.
+
+Outside of work, I’m a Linux enthusiast and retro gaming hobbyist with a strong interest in emulation, open-source software, and classic systems—interests that often inspire my personal projects.
+
+Skills
 
 - **Rust 🦀** – One of my favorite tools for writing safe and high-performance code.
 - **Go** – Exploring through personal projects, enjoying its simplicity, tooling, and concurrency model.
 - **C#** – Experience in backend development and desktop applications.
-- **Backend** - Extensive experience across multiple programming languages, designing and implementing high-load, distributed systems.
-- **Frontend** – Experience with TypeScript, JavaScript, and frameworks like Blazor, Vue, and Angular.
-- **Fintech** – Strong domain expertise delivering high-performance, reliable, and robust solutions.
 
-Personal Projects
-
-- **Game Boy Emulator** – Building a Game Boy emulator with a focus on accuracy, performance, and modern enhancements ([link](https://github.com/mxmgorin/gmboy)).
-- **CHIP-8 Virtual Machine** - Building a CHIP-8, SCHIP, and XO-CHIP VM (emulator) with broad compatibility across variants, quirks support, and multiple frontends ([link](https://mxmgorin.github.io/ch8go/web/)).
-- **Lua Interpreter** – Exploring language internals by implementing a lexer, parser, and runtime ([link](https://github.com/mxmgorin/luar)).
-- **Web Browser** – Experimenting with embedding the Servo engine ([link](https://github.com/mxmgorin/retsurf)).
-- **Open Source** – Contributor to PortMasterGames, where I ported several titles using **Lua** and **Bash** ([link](https://portmaster.games/profile.html?porter=Troidem)).
-
-I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation, open-source software, and classic systems.
 <!--
 ---
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -36,18 +28,4 @@ I’m also a Linux enthusiast and retro gaming hobbyist, interested in emulation
 [![Tokio](https://img.shields.io/badge/Tokio-2A3C3C?style=flat-square&logo=tokio&logoColor=white)](https://tokio.rs/)
 ![Protocol Buffers](https://img.shields.io/badge/-Protocol%20Buffers-02569B?logo=google%20cloud&logoColor=white&style=flat-square&)
 ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white&style=flat-square)
-
-
-**mxmgorin/mxmgorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
