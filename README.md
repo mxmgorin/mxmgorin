@@ -2,15 +2,15 @@
 
 Backend engineer in fintech, building high-load distributed systems. Off the clock, I write emulators and interpreters to learn how computers really work — mostly in **Rust 🦀**.
 
-## 👨‍💻 What I do
+## What I do
 
 - **Backend & distributed systems** — designing services that stay correct, observable, and fast at scale.
 - **Systems & emulation** — my favorite kind of problem: emulators, interpreters, and VMs, where every cycle and byte counts.
 - **Full-stack when it counts** — comfortable from the database up to the UI, on the web or native.
 
-## 🚀 Personal Projects
+## Personal Projects
 
-Most of these started as *"I wonder how this actually works…"* and got happily out of hand:
+Most of these started as *"I wonder how this actually works…"* and got out of hand:
 
 - **[Game Boy Emulator](https://github.com/mxmgorin/gmboy)** — a Game Boy emulator focused on accuracy, performance, and modern enhancements.
 - **[CHIP-8 Virtual Machine](https://mxmgorin.github.io/ch8go/web/)** — a CHIP-8 / SCHIP / XO-CHIP VM with broad cross-variant compatibility, quirks support, and multiple frontends.
