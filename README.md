@@ -1,5 +1,3 @@
-# Hi there, I'm Maxim! 👋
-
 <img src="assets/terminal.svg" alt="Terminal session — Backend engineer in fintech; for fun I write emulators and interpreters, mostly in Rust. Stack: Rust, Go, C#/.NET, TypeScript, JavaScript, Lua, PostgreSQL, Docker, Kubernetes, Bash, egui, Dioxus, SDL2, Blazor, Vue.js, Angular, Git, Arch Linux. Off screen: Linux, retro hardware, reviving classic games." width="683">
 
 <!--
