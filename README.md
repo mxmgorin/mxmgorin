@@ -1,5 +1,12 @@
 # Hi there, I'm Maxim! 👋
 
+<img src="assets/terminal.svg" alt="Terminal session — Backend engineer in fintech; for fun I write emulators and interpreters, mostly in Rust. Stack: Rust, Go, C#/.NET, TypeScript, JavaScript, Lua, PostgreSQL, Docker, Kubernetes, Bash, egui, Dioxus, SDL2, Blazor, Vue.js, Angular, Git, Arch Linux. Off screen: Linux, retro hardware, reviving classic games." width="683">
+
+<!--
+Plain-text version of the terminal session above, kept for the future.
+Regenerate the SVG with:  python3 assets/gen_terminal.py
+Delete the wrapping comment markers to fall back to this code block.
+
 ```text
 mxmgorin:~$ whoami
 Backend engineer in fintech, building high-load distributed systems.
@@ -25,6 +32,7 @@ on new devices. Emulation, open source, and old systems = a good time.
 
 mxmgorin:~$ █
 ```
+-->
 
 <!--
 Kept for the future — projects already live in the pinned repos.
