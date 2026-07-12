@@ -1,12 +1,34 @@
 # Hi there, I'm Maxim! 👋
 
-Backend engineer in fintech, building high-load distributed systems. Off the clock, I write emulators and interpreters to learn how computers really work — mostly in **Rust 🦀**.
+```text
+mxmgorin:~$ whoami
+Backend engineer in fintech, building high-load distributed systems.
+For fun, I write emulators and interpreters to learn how
+computers really work — mostly in Rust 🦀.
 
-## What I do
+mxmgorin:~$ cat what-i-do.txt
+backend      services that stay correct, observable, and fast at scale
+emulation    emulators, interpreters, VMs — every cycle and byte counts
+full-stack   from the database up to the UI, on the web or native
 
-- **Backend & distributed systems** — designing services that stay correct, observable, and fast at scale.
-- **Systems & emulation** — my favorite kind of problem: emulators, interpreters, and VMs, where every cycle and byte counts.
-- **Full-stack when it counts** — comfortable from the database up to the UI, on the web or native.
+mxmgorin:~$ neofetch
+────────────────────────────────────────────────────────────
+ Languages   Rust · Go · C# / .NET · TypeScript · JavaScript · Lua
+ Backend     PostgreSQL · Docker · Kubernetes · Bash
+ UI          egui · Dioxus · SDL2 · Blazor · Vue.js · Angular
+ Tools / OS  Git · Arch Linux
+────────────────────────────────────────────────────────────
+
+mxmgorin:~$ cat ~/.hobbies
+Tinkering with Linux, retro hardware, and reviving classic games
+on new devices. Emulation, open source, and old systems = a good time.
+
+mxmgorin:~$ █
+```
+
+<!--
+Kept for the future — projects already live in the pinned repos.
+Delete the wrapping comment markers to show this section again.
 
 ## Personal Projects
 
@@ -17,8 +39,11 @@ Most of these started as *"I wonder how this actually works…"* and got out of 
 - **[Lua Interpreter](https://github.com/mxmgorin/luar)** — exploring language internals via a hand-written lexer, parser, and runtime.
 - **[Web Browser](https://github.com/mxmgorin/retsurf)** — experimenting with embedding the Servo engine.
 - **[PortMaster Contributions](https://portmaster.games/profile.html?porter=Troidem)** — ported several titles to handhelds using Lua and Bash.
+-->
 
-## 🛠 Tech Stack
+<!--
+Kept for the future — shields.io badge version of the tech stack.
+Delete the wrapping comment markers to switch back to badges.
 
 **Languages:**
 
@@ -49,7 +74,4 @@ Most of these started as *"I wonder how this actually works…"* and got out of 
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
-
----
-
-🐧 Away from work code, I'm usually tinkering with Linux, messing with retro hardware, or coaxing classic games onto new devices. Emulation, open source, and old systems are my idea of a good time.
+-->
