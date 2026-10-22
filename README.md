@@ -1,4 +1,25 @@
+<pre>
+<b>MXMGORIN(6)</b>
+
+<b>DESCRIPTION</b>
+       I make stuff for retro handhelds.
+
+<b>BUILDING</b>
+       <a href="https://github.com/mxmgorin/retsurf">retsurf</a>, <a href="https://github.com/mxmgorin/retsend">retsend</a>, <a href="https://github.com/mxmgorin/oxgbc">oxgbc</a>, <a href="https://mxmgorin.github.io/ch8go/web/">ch8go</a>
+
+<b>HACKING ON</b>
+       <a href="https://github.com/servo/servo/pulls?q=is%3Apr+author%3Amxmgorin">servo</a>, <a href="https://github.com/spruceUI/spruceOS/pulls?q=is%3Apr+author%3Amxmgorin">spruceOS</a>, <a href="https://github.com/goweiwen/Allium/pulls?q=is%3Apr+author%3Amxmgorin">Allium</a>
+
+<b>PART OF</b>
+       <a href="https://portmaster.games/profile.html?porter=mxmgorin">portmaster</a>
+</pre>
+
+<!--
+Kept for the future — animated terminal SVG version.
+Delete the wrapping comment markers to show it again.
+
 <img src="assets/terminal.svg" alt="Terminal session — Backend engineer in fintech; for fun I write emulators and interpreters, mostly in Rust. Stack: Rust, Go, C#/.NET, TypeScript, JavaScript, Lua, PostgreSQL, Docker, Kubernetes, Bash, egui, Dioxus, SDL2, Blazor, Vue.js, Angular, Git, Arch Linux. Off screen: Linux, retro hardware, reviving classic games." width="683">
+-->
 
 <!--
 Plain-text version of the terminal session above, kept for the future.
