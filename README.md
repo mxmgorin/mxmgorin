@@ -1,8 +1,6 @@
 <pre>
-<b>MXMGORIN(6)</b>
-
-<b>DESCRIPTION</b>
-       I make stuff for retro handhelds.
+<b>NAME</b>
+       mxmgorin - makes stuff for retro handhelds
 
 <b>MAINTAINING</b>
        <a href="https://github.com/mxmgorin/retsurf">retsurf</a>, <a href="https://github.com/mxmgorin/retsend">retsend</a>, <a href="https://github.com/mxmgorin/oxgbc">oxgbc</a>, <a href="https://mxmgorin.github.io/ch8go/web/">ch8go</a>, <a href="https://github.com/mxmgorin/ftlpad">ftlpad</a>
