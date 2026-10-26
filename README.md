@@ -3,7 +3,7 @@
        mxmgorin - makes stuff for retro handhelds
 
 <b>MAINTAINING</b>
-       <a href="https://github.com/mxmgorin/retsurf">retsurf</a>, <a href="https://github.com/mxmgorin/retsend">retsend</a>, <a href="https://github.com/mxmgorin/oxgbc">oxgbc</a>, <a href="https://mxmgorin.github.io/ch8go/web/">ch8go</a>, <a href="https://github.com/mxmgorin/ftlpad">ftlpad</a>
+       <a href="https://github.com/mxmgorin/retsurf">retsurf</a>, <a href="https://github.com/mxmgorin/retsend">retsend</a>, <a href="https://github.com/mxmgorin/oxgbc">oxgbc</a>, <a href="https://mxmgorin.github.io/ch8go/web/">ch8go</a>, <a href="https://github.com/mxmgorin/ftlhelm">ftlhelm</a>
 
 <b>HACKING ON</b>
        <a href="https://github.com/servo/servo/pulls?q=is%3Apr+author%3Amxmgorin">servo</a>, <a href="https://github.com/spruceUI/spruceOS/pulls?q=is%3Apr+author%3Amxmgorin">spruceOS</a>, <a href="https://github.com/goweiwen/Allium/pulls?q=is%3Apr+author%3Amxmgorin">Allium</a>
