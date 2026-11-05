@@ -3,7 +3,7 @@
        mxmgorin - makes stuff for retro handhelds
 
 <b>MAINTAINING</b>
-       <a href="https://github.com/mxmgorin/retsurf">retsurf</a>, <a href="https://github.com/mxmgorin/retsend">retsend</a>, <a href="https://github.com/mxmgorin/oxgbc">oxgbc</a>, <a href="https://mxmgorin.github.io/ch8go/web/">ch8go</a>, <a href="https://github.com/mxmgorin/ftlhelm">ftlhelm</a>
+       <a href="https://github.com/mxmgorin/retsurf">retsurf</a>, <a href="https://github.com/mxmgorin/retsend">retsend</a>, <a href="https://github.com/mxmgorin/oxgbc">oxgbc</a>, <a href="https://ch8go.mxmgorin.dev/">ch8go</a>, <a href="https://github.com/mxmgorin/ftlhelm">ftlhelm</a>
 
 <b>HACKING ON</b>
        <a href="https://github.com/servo/servo/pulls?q=is%3Apr+author%3Amxmgorin">servo</a>, <a href="https://github.com/spruceUI/spruceOS/pulls?q=is%3Apr+author%3Amxmgorin">spruceOS</a>, <a href="https://github.com/goweiwen/Allium/pulls?q=is%3Apr+author%3Amxmgorin">Allium</a>
@@ -60,7 +60,7 @@ Delete the wrapping comment markers to show this section again.
 Most of these started as *"I wonder how this actually works…"* and got out of hand:
 
 - **[Game Boy Color Emulator](https://github.com/mxmgorin/oxgbc)** — a Game Boy emulator focused on accuracy, performance, and modern enhancements.
-- **[CHIP-8 Virtual Machine](https://mxmgorin.github.io/ch8go/web/)** — a CHIP-8 / SCHIP / XO-CHIP VM with broad cross-variant compatibility, quirks support, and multiple frontends.
+- **[CHIP-8 Virtual Machine](https://ch8go.mxmgorin.dev/)** — a CHIP-8 / SCHIP / XO-CHIP VM with broad cross-variant compatibility, quirks support, and multiple frontends.
 - **[Lua Interpreter](https://github.com/mxmgorin/luar)** — exploring language internals via a hand-written lexer, parser, and runtime.
 - **[Web Browser](https://github.com/mxmgorin/retsurf)** — experimenting with embedding the Servo engine.
 - **[PortMaster Contributions](https://portmaster.games/profile.html?porter=Troidem)** — ported several titles to handhelds using Lua and Bash.
